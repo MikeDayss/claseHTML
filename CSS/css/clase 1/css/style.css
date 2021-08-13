@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    color: black;
+    font-family: Helvetica;
+}
+
+h1{
+    color:cornsilk;
+    background-color: aquamarine;
+}
+
+h2{
+    font-size: 50px;
+    font-family: Helvetica;
+    font-weight: 600;
+    font-style: oblique;
+}
+
+p{
+    color: coral;
+    background-color: darkslateblue;
+}
+
+#amarillo{
+    background-color: gold;
+}
+
+.rojo{
+    background-color: maroon;
+}
+
+#secciondos{
+    color: darkslategrey;
+    background-color: plum;
+}
+
+#iptexto{
+    color: mediumaquamarine;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+}
