@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    font-family: fantasy;
+}
+
+h1{
+    text-align: center;
+}
+
+section{
+    width: 300px;
+    height: 150px;
+    background-color: aquamarine;
+
+    /*borde*/
+    border: 5px outset black;
+
+    margin: 10px;
+
+    padding: 6px; /*es como un borde pero por dentro*/
+}
+
+#sec2{
+    width: 100px;
+    height: 100px;
+
+    box-sizing: border-box;
+    background-color: gold;
+
+    border-left-color: indigo;
+    border-left-width: 10px;
+    border-left-style: dotted;
+
+    border-right-color: lightseagreen;
+    border-right-width: 10px;
+    border-right-style: dashed;
+
+    border-top-color: maroon;
+    border-top-width: 10px;
+    border-top-style: ridge;
+
+    border-bottom-color: magenta;
+    border-bottom-width: 10px;
+    border-bottom-style: double;
+}
+
+#sec3{
+    border: 1px hidden black;
+    background-color: gold;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+

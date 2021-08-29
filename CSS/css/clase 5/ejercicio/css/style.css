@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color:gold;
+}
+
+ul{
+    
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 100%;
+}
+
+li{
+    display: inline-block;
+    color: white;
+    padding: 20px 30px;
+    height: 20px;
+}
+
+#primer{
+    background-color: black;
+}
+
+#ultimo {
+    background-color: black;
+}
+
